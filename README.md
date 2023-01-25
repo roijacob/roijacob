@@ -1,4 +1,4 @@
-<h3 align="center">An aspiring data scientist from Philippines</h3>
+<h3 align="center">A work in progress</h3>
 
 
 - 👋 Hi, I’m @roijacob
