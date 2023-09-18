@@ -2,9 +2,7 @@
 
 
 - 👋 Hi, I’m @roijacob
-- 👀 I’m interested in Data Science
-- 🔭 I’m currently working on **Machine Learning for Census Income**
-- 💞️ I’m looking to collaborate on data science projects in industrial setting
+- 💞️ I’m looking to collaborate on projects in an industrial setting
 - 📫 How to reach me contact at roijac2b@outlook.com
 
 <!---
